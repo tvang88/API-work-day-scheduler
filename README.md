@@ -97,3 +97,12 @@ You are required to submit the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+Completing the challenger, a user can sort their work day by the hour. 
+*hour blocks change color depending on the current time of day.
+  *Grey for past
+  *Red for current
+  *Green for future
+*Once the user save their entry, the data will still show even after refreshing the page.
+Assistance to complete the project brought by, google searcher, Web MDN, Stack, youtube videos, DayJS
+  -T.Vang
